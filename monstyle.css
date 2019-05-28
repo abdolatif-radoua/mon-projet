@@ -1,0 +1,437 @@
+ul#list_1 li {
+    list-style-type: none;
+    
+ 
+        display:inline;
+        
+        padding: 3px;
+        color: dimgrey;
+     
+
+
+
+      
+
+}
+#list_1{
+    float: right;
+    font-style: oblique	;
+
+}
+body{
+    background:#ecf0f1;
+
+}
+
+ul#list2 li {
+    list-style-type: none;
+    
+ 
+        display:inline;
+        
+        padding: 3px;
+        color: dimgrey;
+
+     
+
+
+
+      
+
+} #list2{
+    float: right;
+    margin-top: -5px;
+    font-size: 20px;
+
+
+
+
+
+
+}
+#list2 li{
+    margin: 6px;
+
+
+    
+}
+a:link {
+    text-decoration: none;
+    color: pink;
+
+
+
+  }
+ #liste2 li, a{
+      color:black;
+      
+
+
+  }
+  #list_1 a{
+      color:#a4b0be;
+
+
+
+
+  }
+  #logo{
+      margin-top: 16px;
+      margin-left: 135px;
+
+
+  }
+  #after-nav{
+      height: 130px;
+      width: 100%;
+      background: red;
+
+
+  }
+  #after{
+      height: 100pt;
+      width: 50%;
+      border: 2px solid;
+ 
+
+  }
+
+ 
+#div-1{
+    margin: 0px;
+    height: 80px;
+    background:#ffffff;
+    width: 1490px;
+    
+    
+
+}
+
+ 
+#div-2{
+
+    height: 80px;
+    
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+
+}
+
+ 
+
+  
+ 
+#div-4{
+
+    height: 80px;
+  
+
+}
+ul#list3 li {
+    list-style-type: none;
+    
+ 
+        display:inline;
+        
+        padding: 3px;
+        color: dimgrey;
+
+     
+
+
+
+      
+
+}
+#list3{
+    margin-left: 142px;
+
+}
+#div-3{
+  
+    height: 520px;
+    background-color: #ffffff;
+    width: 70%;
+    margin-left: 188px;
+
+
+}
+#img-div3{
+    height: 260px;
+    width: 40%;
+   
+    margin: 14px;
+
+
+}
+#after-img{
+   
+    height: 220px;
+    width: 40%;
+    margin-left: 14px;
+    margin-top: -20px;
+
+
+}
+#img-div3-1{
+
+    height: 65px;
+    width: 90px;
+    
+
+
+
+}
+h5{
+    text-align: center;
+    color: orangered;
+    margin-left: 25px;
+
+
+}
+
+#but1{
+    margin-left: 80px;
+    background: #ffffff;
+    border: 0.5px solid;
+    height: 40px;
+    width: 155px;
+
+
+}
+#but2{
+    margin-left: 10px;
+    background: #ffffff;
+    border: 0.5px solid;
+    height: 40px;
+    width: 155px;
+
+
+}
+#but3{
+    margin-left: 155px;
+    background: #ffffff;
+    border: 0.5px solid;
+    height: 40px;
+    margin-top: 12px;
+    width: 170px;
+
+
+
+
+
+
+
+}
+#right-div3{
+    height: 470px;
+    width: 50%;
+
+    float: right;
+    margin-top: -485px;
+    margin-right: 6px;
+
+
+
+
+}
+
+#h5{
+    color: orange;
+    text-align: center;
+
+}
+#para{
+    text-align: justify;
+    text-align: center;
+    margin-left: 80px;
+    margin-right: 80px;
+    font-style: oblique;
+    font-size: 18px;
+
+}
+#media{
+    text-align: center;
+  
+}
+#h3{
+    text-align: center;
+    font-size: 17px;
+    margin-top: -12px;
+
+
+    
+
+
+}
+#h4{
+    text-align: center;
+    font-size: 13.5px;  
+    color: #f39c12;
+
+}
+#instagram{
+    margin-left: 2.75px;
+
+}
+#select2{
+    width: 45%;
+    margin-left: 19px;
+    height: 32px;
+
+    font-style: italic;
+   
+
+
+}
+#select{
+    width: 45%;
+    margin-left: 12px;
+    height: 32px;
+    font-style: italic;
+
+    
+
+   
+
+}
+
+#img-tab{
+    height: 45px;
+    width: 50px;
+
+
+}
+#but-tab{
+    background-color: orange;
+    border: 0.75px solid;
+    width: 235px;
+    margin-left: 70px;
+    height: 40px;
+    color: aliceblue;
+    font-size: 25px;
+
+
+
+}
+#tab{
+    margin-top: 20px;
+    margin-left: 40px;
+    border-left: none;
+    border-right: none;
+    border: 0.2 solid;
+  
+    padding: 10px;
+     
+    
+
+
+
+}
+#tab th{
+    border: none;
+    
+
+}
+#tab-div_4{
+    width: 70%;
+    margin-left: 188px;
+    margin-top: 40px;
+    border: none;
+    
+ 
+    
+
+
+
+    
+}
+#ico1{
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: left center; 
+
+
+  
+    
+
+
+
+
+
+}
+#tab-div_4 th{
+    
+    border: none;
+    border-right: 1px solid grey;
+ 
+    
+
+
+
+}
+#div-5{
+    height: 460px;
+    background-color: #ffffff;
+    width: 70%;
+    margin-left: 188px;
+
+}
+#img-div5{
+    height: 460px;
+    width: 50%;
+    float: left;
+    
+
+}
+#div-5-img{
+    text-align: justify;
+    text-align: center;
+
+    
+
+}
+#div-5-img p{
+    font-size:25px;
+    
+    margin-left: 80px ;
+    color: #f39c12;
+
+
+
+
+    
+}
+@media Screen and (max-width:950px){
+
+    #div-1{
+        width: 100%;
+        
+    }
+    #list2{
+        float: right;
+        margin-top: 2px ;
+        font-size: 12px ;
+        
+      
+
+        font-size: 95px;
+
+    
+    
+    
+    
+    
+    }
+    #logo{
+        margin-top: 10px;
+        margin-left: 8px;
+        
+  
+    
+}
+
+  
+}
